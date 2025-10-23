@@ -65,7 +65,7 @@ This project analyzes maternal health factors to predict newborn birth weight ca
 
 ## Repository Contents
 
-- 📄 **Full Report:** [Project_Report.pdf](./Project_Report.pdf)
+- 📄 **Full Report:** [Project_Report.pdf](https://drive.google.com/file/d/1kkQSG_4g8pO2Ckao8GVvQzaHzu7wo9S0/view?usp=sharing)
 - 📊 **Analysis Code:**
   - [Data Preprocessing & EDA](https://colab.research.google.com/drive/11-tNohJVUfhgq_Y_kMLwJ41x7wRlEYL8?usp=sharing)
   - [Simple Linear Regression](https://colab.research.google.com/drive/1_HpIlLUMva-J6deLUBgaVS_ktr8MbCDK?usp=sharing)
